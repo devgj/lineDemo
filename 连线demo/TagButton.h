@@ -8,11 +8,13 @@
 
 #import <UIKit/UIKit.h>
 
+@class TagLayer;
+
 NS_ASSUME_NONNULL_BEGIN
 
 @interface TagButton : UIButton
 
-@property (nonatomic, weak) CAShapeLayer *lineLayer;
+@property (nonatomic, weak) TagLayer *lineLayer;
 
 @end
 

@@ -15,6 +15,7 @@
 		0819B74D21A832CF00C5116F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0819B74C21A832CF00C5116F /* main.m */; };
 		0819B75521A8331400C5116F /* TagView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0819B75421A8331400C5116F /* TagView.m */; };
 		0819B75821A83F7800C5116F /* TagButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 0819B75721A83F7800C5116F /* TagButton.m */; };
+		0819B75B21AEE4C700C5116F /* TagLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 0819B75A21AEE4C700C5116F /* TagLayer.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,8 @@
 		0819B75421A8331400C5116F /* TagView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TagView.m; sourceTree = "<group>"; };
 		0819B75621A83F7800C5116F /* TagButton.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TagButton.h; sourceTree = "<group>"; };
 		0819B75721A83F7800C5116F /* TagButton.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TagButton.m; sourceTree = "<group>"; };
+		0819B75921AEE4C700C5116F /* TagLayer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TagLayer.h; sourceTree = "<group>"; };
+		0819B75A21AEE4C700C5116F /* TagLayer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TagLayer.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +75,8 @@
 				0819B75421A8331400C5116F /* TagView.m */,
 				0819B75621A83F7800C5116F /* TagButton.h */,
 				0819B75721A83F7800C5116F /* TagButton.m */,
+				0819B75921AEE4C700C5116F /* TagLayer.h */,
+				0819B75A21AEE4C700C5116F /* TagLayer.m */,
 				0819B74321A832CE00C5116F /* Main.storyboard */,
 				0819B74621A832CF00C5116F /* Assets.xcassets */,
 				0819B74821A832CF00C5116F /* LaunchScreen.storyboard */,
@@ -155,6 +160,7 @@
 				0819B74221A832CE00C5116F /* ViewController.m in Sources */,
 				0819B74D21A832CF00C5116F /* main.m in Sources */,
 				0819B73F21A832CE00C5116F /* AppDelegate.m in Sources */,
+				0819B75B21AEE4C700C5116F /* TagLayer.m in Sources */,
 				0819B75521A8331400C5116F /* TagView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
